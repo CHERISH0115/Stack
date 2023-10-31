@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\HuaweiMoveData\Users\刘延安\Desktop\Stack1\cherish.h(32,20): warning C4474: printf: 格式字符串中传递的参数太多
+D:\HuaweiMoveData\Users\刘延安\Desktop\Stack1\cherish.h(32,20): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  Stack1.vcxproj -> D:\HuaweiMoveData\Users\刘延安\Desktop\Stack1\x64\Debug\Stack1.exe
